@@ -45,3 +45,4 @@ public class Competencia {
         return generarReporte();
     }
 }
+
