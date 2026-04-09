@@ -42,4 +42,5 @@ public class CiclistaSprint extends Competidor {
         }
         return resultado;
     }
+    
 }
