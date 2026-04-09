@@ -7,6 +7,7 @@ import Modelo.Competencia;
 import Modelo.Competidor;
 import Modelo.Equipo;
 import Vista.Vista;
+
 /**
  *
  * @author felip
