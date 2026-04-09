@@ -44,4 +44,5 @@ public class CiclistaPersecucion extends Competidor {
         }
         return resultado;
     }
+    
 }
