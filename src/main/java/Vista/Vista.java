@@ -10,6 +10,7 @@ package Vista;
  */
 
 public class Vista {
+    
 
     // Muestra cualquier mensaje en consola
     public void mostrarMensaje(String mensaje) {
